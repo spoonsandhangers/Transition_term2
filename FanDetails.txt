@@ -1,0 +1,20 @@
+Homer,Simpson,742 Evergreen terrace,Springfield,S21 3HS,Homer@hotmail.com
+Rick,Sanchez,C137 Earth Dimension,Seattle,D37 1CC,Rick@interdimension.un
+Harry,Potter,4 Privet Drive,Little Whinging,S12 4PS,Potter@hogwarts.wiz
+Peppa,Pig,12 Porky Park,New Forest,P78 9HG,Peppa@oink.pig
+Deanna,Troi,89 Enterprise Alley,Betazoid,NCC 1701,deanna@enterprice.ncc
+Bobba,Fett,62 Tatoine avenue,Kamino,B22 1BY,bobba@bounty.net
+Ash,Ketchum,10 Pallet Town,Kanto,P65 8PK,ash@pokemon.gca
+Sheldon,Cooper,2311 NLR Avenue,Pasedena,P34 2YD,scooper@yale.edu
+Tony,Stark,10880 Malibu Point,Florida,C90 S65,stark@marvel.sup
+Joey,Tribbiani,90 Bedford Street,New York,NY1 2BA,joey@whatsup.fri
+Damon,Salvatore,684 Abernathy Road,Georgia,G56 9VA,damon@vamp.us
+Jim,Hopper,2 demogorgon road,Hawkins,H34 234,Jim@sheriffs.law
+Joe,Exotic,1 Exotic Animal Park,Wynnewood,W12 34S,joe@prison.law
+Chris,Packham,10 New forest Road,New Forest,NF1 64T,chris@birds.net
+Gary,Linekar,10 Wood Lane,London,W12 7RJ,gary@england.bal
+Steve,Davis,147 Alexandra Palace Way,London,N22 7AY,steve@allypally.cue
+Peter,Wright,180 lakeside Row,Camberley,GU16 6PT,peter@bullseye.dbl
+sarah,Connor,21 terminator terrace,New York,NY3 65T,sarah@Illbeback.ter
+Hannah,Fry,314 gower street,London,WC1E 6BT,hannah@maths.pi
+Grace,Hopper,77th Street,Manhatten,M34 6WT,grace@cobol.com

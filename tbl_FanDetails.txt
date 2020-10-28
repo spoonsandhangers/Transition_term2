@@ -1,0 +1,20 @@
+1,"Homer","Simpson","742 Evergreen terrace","Springfield","S21 3HS","08720123832","Homer@hotmail.com",2/4/2020 00:00:00,12/5/1953 00:00:00,1
+2,"Rick","Sanchez","C137 Earth Dimension","Seattle","D37 1CC","02134872345","Rick@interdimension.un",5/4/2020 00:00:00,3/7/1958 00:00:00,0
+3,"Harry","Potter","4 Privet Drive","Little Whinging","S12 4PS","09876123765","Potter@hogwarts.wiz",1/4/2020 00:00:00,31/7/1980 00:00:00,0
+4,"Peppa","Pig","12 Porky Park","New Forest","P78 9HG","09756234812","Peppa@oink.pig",2/3/2020 00:00:00,30/5/1999 00:00:00,0
+5,"Deanna","Troi","89 Enterprise Alley","Betazoid","NCC 1701","09236783452","deanna@enterprice.ncc",5/2/2020 00:00:00,29/3/2016 00:00:00,1
+6,"Bobba","Fett","62 Tatoine avenue","Kamino","B22 1BY","09871234654","bobba@bounty.net",19/2/2020 00:00:00,11/1/1950 00:00:00,1
+7,"Ash","Ketchum","10 Pallet Town","Kanto","P65 8PK","08762123645","ash@pokemon.gca",29/1/2020 00:00:00,23/4/1998 00:00:00,1
+8,"Sheldon","Cooper","2311 NLR Avenue","Pasedena","P34 2YD","09907123321","scooper@yale.edu",3/4/2020 00:00:00,26/2/1980 00:00:00,0
+9,"Tony","Stark","10880 Malibu Point","Florida","C90 S65","09123654123","stark@marvel.sup",23/3/2020 00:00:00,29/5/1970 00:00:00,0
+10,"Joey","Tribbiani","90 Bedford Street","New York","NY1 2BA","09887878987","joey@whatsup.fri",14/2/2020 00:00:00,9/1/1968 00:00:00,1
+11,"Damon","Salvatore","684 Abernathy Road","Georgia","G56 9VA","09666666666","damon@vamp.us",15/4/2020 00:00:00,18/6/1939 00:00:00,0
+12,"Jim","Hopper","2 demogorgon road","Hawkins","H34 234","0872347263","Jim@sheriffs.law",16/3/2020 00:00:00,23/4/1967 00:00:00,0
+13,"Joe","Exotic","1 Exotic Animal Park","Wynnewood","W12 34S","08987772364","joe@prison.law",20/2/2020 00:00:00,10/9/1960 00:00:00,1
+14,"Chris","Packham","10 New forest Road","New Forest","NF1 64T","07890909123","chris@birds.net",31/1/2020 00:00:00,4/5/1961 00:00:00,1
+15,"Gary","Linekar","10 Wood Lane","London","W12 7RJ","07865345819","gary@england.bal",16/4/2020 00:00:00,30/11/1960 00:00:00,0
+16,"Steve","Davis","147 Alexandra Palace Way","London","N22 7AY","07654456765","steve@allypally.cue",8/4/2020 00:00:00,22/8/1957 00:00:00,1
+17,"Peter","Wright","180 lakeside Row","Camberley","GU16 6PT","07890000235","peter@bullseye.dbl",9/3/2020 00:00:00,10/3/1970 00:00:00,0
+18,"sarah","Connor","21 terminator terrace","New York","NY3 65T","07909565432","sarah@Illbeback.ter",12/2/2020 00:00:00,13/6/1980 00:00:00,0
+19,"Hannah","Fry","314 gower street","London","WC1E 6BT","07877663142","hannah@maths.pi",8/1/2020 00:00:00,21/2/1980 00:00:00,0
+20,"Grace","Hopper","77th Street","Manhatten","M34 6WT","07999222555","grace@cobol.com",8/4/2020 00:00:00,9/12/1906 00:00:00,1
